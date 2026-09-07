@@ -1,0 +1,7 @@
+*.so
+*.o
+demo
+smear-cursor-x11-test
+smear-cursor-x11-watch
+smear-cursor-x11-watchdog
+smear-cursor-x11-shot
