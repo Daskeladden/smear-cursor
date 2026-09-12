@@ -397,6 +397,10 @@ Packages in Emacs that do something close:
 - [beacon](https://github.com/Malabarba/beacon) flashes a light when the cursor
   jumps, and [pulsar](https://github.com/protesilaos/pulsar) pulses the current
   line. Neither animates the movement.
+- [forge-cursor](https://github.com/barrulus/forge-cursor) adds three
+  independent cursor effects, welding sparks, comet streak and pulsar flash. It
+  draws them with overlays and needs only Emacs 29.1, so it runs on pgtk,
+  Wayland and X.
 
 What is different here is that the trail is drawn in pixels, in a canvas image
 or in an X11 window over the frame, so a corner can move by less than a
